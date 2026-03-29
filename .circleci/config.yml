@@ -141,6 +141,7 @@ jobs:
           command: |
             irm get.scoop.sh -outfile "install.ps1"
             .\install.ps1 -RunAsAdmin -ScoopDir "C:\scoop"
+            scoop config use_external_7zip true
             scoop bucket add extras
             scoop install kicad@<<parameters.kicad-version>>
             scoop cache rm --all
