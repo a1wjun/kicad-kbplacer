@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-30 18:10+0100\n"
+"POT-Creation-Date: 2026-03-29 17:59+0200\n"
 "PO-Revision-Date: 2025-01-05 22:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/kicad-kbplacer/"
@@ -80,6 +80,15 @@ msgstr "போர்டு அவுட்லைன் உருவாக்க�
 
 msgid "Outline delta:"
 msgstr "அவுட்லைன் டெல்டா:"
+
+msgid "Layout offset"
+msgstr ""
+
+msgid "X placement offset for the keyboard layout in mm"
+msgstr ""
+
+msgid "Y placement offset for the keyboard layout in mm"
+msgstr ""
 
 msgid "Other settings"
 msgstr "பிற அமைப்புகள்"

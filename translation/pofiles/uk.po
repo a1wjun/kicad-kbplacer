@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-12-30 18:10+0100\n"
+"POT-Creation-Date: 2026-03-29 17:59+0200\n"
 "PO-Revision-Date: 2024-02-19 13:02+0000\n"
 "Last-Translator: Сергій <sergiy.goncharuk.1@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/kicad-kbplacer/"
@@ -81,6 +81,15 @@ msgstr "Створити контур друкованої плати"
 
 msgid "Outline delta:"
 msgstr "Дельта контуру:"
+
+msgid "Layout offset"
+msgstr ""
+
+msgid "X placement offset for the keyboard layout in mm"
+msgstr ""
+
+msgid "Y placement offset for the keyboard layout in mm"
+msgstr ""
 
 msgid "Other settings"
 msgstr "Інші налаштування"
